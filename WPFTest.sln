@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTest", "WPFTest\WPFTest.csproj", "{8BB2AE88-C3FB-4FEA-9CC0-2D0132BC786E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB2AE88-C3FB-4FEA-9CC0-2D0132BC786E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB2AE88-C3FB-4FEA-9CC0-2D0132BC786E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB2AE88-C3FB-4FEA-9CC0-2D0132BC786E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB2AE88-C3FB-4FEA-9CC0-2D0132BC786E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6BA617E-4B3B-481F-88E9-E1F3E0A4CC53}
+	EndGlobalSection
+EndGlobal

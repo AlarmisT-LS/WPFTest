@@ -1,0 +1,16 @@
+﻿<Window x:Class="WPFTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock x:Name="labeltextbox" HorizontalAlignment="Left" Margin="30,30,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="textbox" HorizontalAlignment="Left" Margin="30,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="buttentextbox" Content="Button" HorizontalAlignment="Left" Margin="30,70,0,0" VerticalAlignment="Top" Click="buttentextbox_Click"/>
+
+
+    </Grid>
+</Window>
